@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Danlif1&show_icons=true&theme=vue-dark&&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Danlif1&show_icons=true&theme=neon&text_color=33B4A8&&count_private=true&include_all_commits=true"/>
 
 
 <!--
