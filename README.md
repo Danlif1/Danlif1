@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=danlif1&show_icons=true&theme=neon&text_color=33B4A8&count_private=true&include_all_commits=true" style="height: 25vh;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlif1&layout=compact&langs_count=10&theme=neon&text_color=33B4A8" style="height: 25vh;" align="right"/>
 </div>
-<img src="https://github-profile-trophy.vercel.app/?username=danlif1&column=9&theme=radical" style="height: 11vh; "/>
+<img src="https://github-profile-trophy.vercel.app/?username=danlif1&column=9&theme=radical" style="height: 12vh; "/>
 
 <!--
 **Danlif1/Danlif1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
