@@ -2,8 +2,8 @@
 
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=danlif1&show_icons=true&theme=neon&text_color=33B4A8&count_private=true&include_all_commits=true" style="height: 25vh;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlif1&layout=compact&langs_count=10&theme=neon&text_color=33B4A8" style="height: 25vh;" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danlif1&show_icons=true&theme=neon&text_color=33B4A8&count_private=true&include_all_commits=true" style="height: 15vw;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlif1&layout=compact&langs_count=10&theme=neon&text_color=33B4A8" style="height: 15vw;" align="right"/>
 </div>
 <img src="https://github-profile-trophy.vercel.app/?username=danlif1&column=10&theme=radical"/>
 
